@@ -1,0 +1,9 @@
+.vsconfig
+*.sln
+.vs
+.vscode
+Binaries
+DerivedDataCache
+Intermediate
+Build
+Saved
